@@ -16,6 +16,6 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.0
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/shopspring/decimal v1.2.0 // indirect
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	golang.org/x/tools v0.0.0-20200619210111-0f592d2728bb // indirect
 )
